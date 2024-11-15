@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2f6ba5dc83cd521067e9f855eeaad3a8" label="Hardware" max_length="40" name="x_1538320_greenh_1_hardware" text_index="true" type="collection">
+        <element label="Type" mandatory="true" max_length="32" name="type" reference="x_1538320_greenh_1_hardware_type" type="reference"/>
+        <element label="Location" mandatory="true" max_length="32" name="location" reference="x_1538320_greenh_1_location" type="reference"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="type"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>My request - task bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-11-04 14:46:43</sys_created_on>
+        <sys_id>0b21f02fa92112106452392176a2a47e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - task bundle</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_0b21f02fa92112106452392176a2a47e</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:46:43</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

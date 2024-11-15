@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_a7d265f01ab912108ba41ec1723f1bd2</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Link to destination Relay (Landing Page Default)</label>
+        <props>[
+    {
+        "fieldType": "string",
+        "interfaceApiName": "global.route",
+        "label": "Route type",
+        "name": "route"
+    },
+    {
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Route fields",
+        "name": "fields"
+    },
+    {
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Optionals parameters",
+        "name": "params"
+    },
+    {
+        "fieldType": "boolean",
+        "interfaceApiName": null,
+        "label": "Remove previous URL from browser history",
+        "name": "redirect"
+    },
+    {
+        "fieldType": "boolean",
+        "interfaceApiName": null,
+        "label": "Load in background (advanced)",
+        "name": "passiveNavigation"
+    },
+    {
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Title (advanced)",
+        "name": "title"
+    },
+    {
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Multi-instance field (advanced)",
+        "name": "multiInstField"
+    },
+    {
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Sub-navigation route (advanced)",
+        "name": "targetRoute"
+    },
+    {
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "External URL object",
+        "name": "external"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>isaac.arzu</sys_created_by>
+        <sys_created_on>2024-11-08 15:36:13</sys_created_on>
+        <sys_id>ebd265f0ceb912107ecd9e7a97daf4a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (Landing Page Default)</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_event_ebd265f0ceb912107ecd9e7a97daf4a3</sys_update_name>
+        <sys_updated_by>isaac.arzu</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:36:13</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=ebd265f0ceb912107ecd9e7a97daf4a3"/>
+</record_update>

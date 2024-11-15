@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New</name>
+        <parameter_screen/>
+        <query_condition table="x_1538320_greenh_1_location">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:22:34</sys_created_on>
+        <sys_id>6e628a388391921067e9f855eeaad32f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_6e628a388391921067e9f855eeaad32f</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:22:34</sys_updated_on>
+        <table>x_1538320_greenh_1_location</table>
+        <template>is_tank={{Locations is_tank}}^name={{Locations name}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e628a388391921067e9f855eeaad32f"/>
+</record_update>

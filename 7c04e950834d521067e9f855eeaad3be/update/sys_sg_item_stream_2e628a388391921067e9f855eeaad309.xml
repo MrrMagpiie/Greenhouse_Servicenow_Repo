@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Locations Data Item">12624a388391921067e9f855eeaad34d</data_item>
+        <interleaved_field/>
+        <name>ee628a388391921067e9f855eeaad301 Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:22:33</sys_created_on>
+        <sys_id>2e628a388391921067e9f855eeaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ee628a388391921067e9f855eeaad301 Item Stream</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_sg_item_stream_2e628a388391921067e9f855eeaad309</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:22:33</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

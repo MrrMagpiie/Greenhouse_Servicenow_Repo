@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">c321f02f4e211210de5a30c329120ea8</dataset>
+        <datasource display_value="My Requests - Requested Item Datasource">0321f02faf211210663aad48432247a8</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-11-04 14:46:43</sys_created_on>
+        <sys_id>c721f02f89211210cdae60a70649d77f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_c721f02f89211210cdae60a70649d77f</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:46:43</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

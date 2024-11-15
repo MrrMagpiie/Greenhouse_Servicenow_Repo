@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="greenhouse">062e387d83f1121067e9f855eeaad307</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>isaac.arzu</sys_created_by>
+        <sys_created_on>2024-11-11 15:29:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce2ef87d83f1121067e9f855eeaad3ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>par_dashboard_canvas_ce2ef87d83f1121067e9f855eeaad3ec</sys_update_name>
+        <sys_updated_by>isaac.arzu</sys_updated_by>
+        <sys_updated_on>2024-11-11 15:29:39</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

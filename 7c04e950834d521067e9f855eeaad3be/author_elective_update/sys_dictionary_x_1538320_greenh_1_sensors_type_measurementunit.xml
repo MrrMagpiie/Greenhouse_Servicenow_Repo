@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="measurementunit" table="x_1538320_greenh_1_sensors_type">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Measurement Unit</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>measurementunit</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1538320_greenh_1_sensors_type</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>zachary.agnew</sys_created_by>
+        <sys_created_on>2024-10-16 14:46:45</sys_created_on>
+        <sys_id>480b3e118395121067e9f855eeaad376</sys_id>
+        <sys_name>Measurement Unit</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_dictionary_x_1538320_greenh_1_sensors_type_measurementunit</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-21 14:27:26</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_dictionary_x_1538320_greenh_1_sensors_type_measurementunit</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="measurementunit" table="x_1538320_greenh_1_sensors_type"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;1&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Measurement Unit&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;measurementunit&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_1538320_greenh_1_sensors_type&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;zachary.agnew&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-16 14:46:45&lt;/sys_created_on&gt;&lt;sys_id&gt;480b3e118395121067e9f855eeaad376&lt;/sys_id&gt;&lt;sys_name&gt;Measurement Unit&lt;/sys_name&gt;&lt;sys_package display_value="Greenhouse" source="x_1538320_greenh_1"&gt;7c04e950834d521067e9f855eeaad3be&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Greenhouse"&gt;7c04e950834d521067e9f855eeaad3be&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_1538320_greenh_1_sensors_type_measurementunit&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;taran.curtis&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-21 14:27:26&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1500459050</payload_hash>
+        <record_name>Sensors Type.Measurement Unit</record_name>
+        <reverted_from/>
+        <source>bc042d50834d521067e9f855eeaad328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-21 14:27:26</sys_created_on>
+        <sys_id>ca86ec8b8395121067e9f855eeaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192af79c7ce0000001</sys_recorded_at>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-21 14:27:26</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>0286ec8b99951210ca5f3e683be5be78</update_guid>
+        <update_guid_history>0286ec8b99951210ca5f3e683be5be78:-1500459050,eedbb2d58f951210069c76c02bd5eef0:-920849230,900b72515d951210088e80f1c05645e5:508911902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-21 14:51:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>001d7439ba4a439e80003b096d22cb64</sys_id>
+        <sys_metadata>480b3e118395121067e9f855eeaad376</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Measurement Unit</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent display_value="Greenh 1 Sensors Type">e85761d4838d521067e9f855eeaad30d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1538320_greenh_1_sensors_type_measurementunit</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1538320_greenh_1_sensors_type_measurementunit">ca86ec8b8395121067e9f855eeaad378</sys_update_version>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-21 14:51:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="green-house Search Profile">25ed827cf4f55210f5fb69d242501a95</profile>
+        <search_source display_value="Hardware Type">9cfd8a7c83f5521067e9f855eeaad35b</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>isaac.arzu</sys_created_by>
+        <sys_created_on>2024-11-08 18:44:18</sys_created_on>
+        <sys_id>1cfd8a7c83f5521067e9f855eeaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>green-house Search Profile.Hardware Type</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_1cfd8a7c83f5521067e9f855eeaad35f</sys_update_name>
+        <sys_updated_by>isaac.arzu</sys_updated_by>
+        <sys_updated_on>2024-11-08 18:44:18</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
