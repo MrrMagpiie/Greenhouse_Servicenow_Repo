@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e85761d4838d521067e9f855eeaad30d" label="Sensors Type" max_length="40" name="x_1538320_greenh_1_sensors_type" text_index="true" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Unit" mandatory="true" max_length="40" name="measurement" type="string"/>
+    </element>
+</database>

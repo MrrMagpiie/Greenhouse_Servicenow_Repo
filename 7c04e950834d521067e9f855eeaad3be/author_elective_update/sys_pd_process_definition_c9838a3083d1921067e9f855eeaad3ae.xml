@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition">
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description>What Happens when there is a new sensor to be added</description>
+        <designer_state/>
+        <engine_major_version/>
+        <label>New Sensor</label>
+        <name>new_sensor</name>
+        <now_assist_prompt/>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:22</sys_created_on>
+        <sys_id>c9838a3083d1921067e9f855eeaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Sensor</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:28:24</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_translated_text action="DELETE" query="documentkey=c9838a3083d1921067e9f855eeaad3ae"/>
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description>What Happens when there is a new sensor to be added</description>
+        <designer_state/>
+        <engine_major_version/>
+        <label>New Sensor</label>
+        <name>new_sensor</name>
+        <now_assist_prompt/>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:22</sys_created_on>
+        <sys_id>c9838a3083d1921067e9f855eeaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Sensor</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:28:24</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_translated_text action="DELETE" query="documentkey=c9838a3083d1921067e9f855eeaad3ae"/>
+    <sys_pd_lane action="DELETE" query="process_definition=c9838a3083d1921067e9f855eeaad3ae^sys_idNOT INa36ede0a36f590a36ae70a363eb0a367"/>
+    <sys_pd_lane action="DELETE">
+        <active>true</active>
+        <condition_to_run/>
+        <description/>
+        <label>Create Sensor Readings Table</label>
+        <lane_condition/>
+        <name>new_stage</name>
+        <order>1</order>
+        <process_definition display_value="New Sensor">c9838a3083d1921067e9f855eeaad3ae</process_definition>
+        <restart_rule>RUN_ONLY_ONCE</restart_rule>
+        <start_rule display_value="Immediately">b823830967fc41ddb84959d97897b1ae</start_rule>
+        <start_rule_vars/>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:51</sys_created_on>
+        <sys_id>a36ede0a36f590a36ae70a363eb0a367</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:28:24</sys_updated_on>
+        <visible_rule/>
+    </sys_pd_lane>
+    <sys_translated_text action="DELETE" query="documentkey=a36ede0a36f590a36ae70a363eb0a367"/>
+    <sys_variable_value action="DELETE" query="document_key=a36ede0a36f590a36ae70a363eb0a367"/>
+    <sys_pd_activity action="DELETE" query="process_definition=c9838a3083d1921067e9f855eeaad3ae"/>
+    <sys_pd_snapshot action="DELETE" query="sys_id="/>
+    <sys_json_chunk action="DELETE" query="document_id="/>
+    <sys_pd_snapshot_chunk action="DELETE" query="document_id="/>
+    <sys_pd_trigger_instance action="DELETE" query="sys_id=4d838a3083d1921067e9f855eeaad3da^sys_idNOT IN4d838a3083d1921067e9f855eeaad3da"/>
+    <sys_pd_trigger_instance action="DELETE">
+        <label/>
+        <name/>
+        <process_definition display_value="New Sensor">c9838a3083d1921067e9f855eeaad3ae</process_definition>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:22</sys_created_on>
+        <sys_id>4d838a3083d1921067e9f855eeaad3da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:27:23</sys_updated_on>
+        <trigger_definition/>
+        <trigger_inputs/>
+        <trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type>
+    </sys_pd_trigger_instance>
+    <sys_translated_text action="DELETE" query="documentkey=4d838a3083d1921067e9f855eeaad3da"/>
+    <sys_variable_value action="DELETE" query="document_key=4d838a3083d1921067e9f855eeaad3da"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_pd_trigger_instance</document>
+        <document_key>4d838a3083d1921067e9f855eeaad3da</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:23</sys_created_on>
+        <sys_id>51838a3083d1921067e9f855eeaad3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:27:23</sys_updated_on>
+        <value>x_1538320_greenh_1_sensors</value>
+        <variable display_value="Table">a8ae38d1ff2200108c8733af793bf15c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_pd_trigger_instance</document>
+        <document_key>4d838a3083d1921067e9f855eeaad3da</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:27:23</sys_created_on>
+        <sys_id>85838a3083d1921067e9f855eeaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:27:23</sys_updated_on>
+        <value>nameANYTHING</value>
+        <variable display_value="Condition">2a8a7851ff2200108c8733af793bf131</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition"><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description>What Happens when there is a new sensor to be added</description><designer_state/><engine_major_version/><label>New Sensor</label><name>new_sensor</name><now_assist_prompt/><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><schema_version>2</schema_version><snapshot/><start_non_blocking>true</start_non_blocking><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:22</sys_created_on><sys_id>c9838a3083d1921067e9f855eeaad3ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Sensor</sys_name><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</sys_update_name><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:28:24</sys_updated_on><view_type>DIAGRAM</view_type></sys_pd_process_definition><sys_translated_text action="delete_multiple" query="documentkey=c9838a3083d1921067e9f855eeaad3ae"/><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description>What Happens when there is a new sensor to be added</description><designer_state/><engine_major_version/><label>New Sensor</label><name>new_sensor</name><now_assist_prompt/><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><schema_version>2</schema_version><snapshot/><start_non_blocking>true</start_non_blocking><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:22</sys_created_on><sys_id>c9838a3083d1921067e9f855eeaad3ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Sensor</sys_name><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</sys_update_name><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:28:24</sys_updated_on><view_type>DIAGRAM</view_type></sys_pd_process_definition><sys_translated_text action="delete_multiple" query="documentkey=c9838a3083d1921067e9f855eeaad3ae"/><sys_pd_lane action="delete_multiple" query="process_definition=c9838a3083d1921067e9f855eeaad3ae^sys_idNOT INa36ede0a36f590a36ae70a363eb0a367"/><sys_pd_lane action="INSERT_OR_UPDATE"><active>true</active><condition_to_run/><description/><label>Create Sensor Readings Table</label><lane_condition/><name>new_stage</name><order>1</order><process_definition display_value="New Sensor">c9838a3083d1921067e9f855eeaad3ae</process_definition><restart_rule>RUN_ONLY_ONCE</restart_rule><start_rule display_value="Immediately">b823830967fc41ddb84959d97897b1ae</start_rule><start_rule_vars/><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:51</sys_created_on><sys_id>a36ede0a36f590a36ae70a363eb0a367</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:28:24</sys_updated_on><visible_rule/></sys_pd_lane><sys_translated_text action="delete_multiple" query="documentkey=a36ede0a36f590a36ae70a363eb0a367"/><sys_variable_value action="delete_multiple" query="document_key=a36ede0a36f590a36ae70a363eb0a367"/><sys_pd_activity action="delete_multiple" query="process_definition=c9838a3083d1921067e9f855eeaad3ae"/><sys_pd_snapshot action="delete_multiple" query="sys_id="/><sys_json_chunk action="delete_multiple" query="document_id="/><sys_pd_snapshot_chunk action="delete_multiple" query="document_id="/><sys_pd_trigger_instance action="delete_multiple" query="sys_id=4d838a3083d1921067e9f855eeaad3da^sys_idNOT IN4d838a3083d1921067e9f855eeaad3da"/><sys_pd_trigger_instance action="INSERT_OR_UPDATE"><label/><name/><process_definition display_value="New Sensor">c9838a3083d1921067e9f855eeaad3ae</process_definition><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:22</sys_created_on><sys_id>4d838a3083d1921067e9f855eeaad3da</sys_id><sys_mod_count>1</sys_mod_count><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:27:23</sys_updated_on><trigger_definition/><trigger_inputs/><trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type></sys_pd_trigger_instance><sys_translated_text action="delete_multiple" query="documentkey=4d838a3083d1921067e9f855eeaad3da"/><sys_variable_value action="delete_multiple" query="document_key=4d838a3083d1921067e9f855eeaad3da"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_pd_trigger_instance</document><document_key>4d838a3083d1921067e9f855eeaad3da</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:23</sys_created_on><sys_id>51838a3083d1921067e9f855eeaad3de</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:27:23</sys_updated_on><value>x_1538320_greenh_1_sensors</value><variable display_value="Table">a8ae38d1ff2200108c8733af793bf15c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_pd_trigger_instance</document><document_key>4d838a3083d1921067e9f855eeaad3da</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:27:23</sys_created_on><sys_id>85838a3083d1921067e9f855eeaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:27:23</sys_updated_on><value>nameANYTHING</value><variable display_value="Condition">2a8a7851ff2200108c8733af793bf131</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>535355981</payload_hash>
+        <record_name>New Sensor</record_name>
+        <reverted_from/>
+        <source>bc042d50834d521067e9f855eeaad328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-14 21:28:25</sys_created_on>
+        <sys_id>d0c3c6b083d1921067e9f855eeaad3cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928ceead640000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:28:25</sys_updated_on>
+        <type>Process Definition</type>
+        <update_guid>98c3c6b0abd19210f00513ce33e336ca</update_guid>
+        <update_guid_history>98c3c6b0abd19210f00513ce33e336ca:535355981,1ca34a7010d192106841df7d21f41541:-649579204,5983ca3087d192109cd29e5d7e9a5715:-1902566414,05838a309cd1921077f493cb5737f2d9:245608455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-25 15:09:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_pd_process_definition">sys_pd_process_definition</sys_db_object>
+        <sys_id>0f31caafa47e4b43829ec8b55f760d31</sys_id>
+        <sys_metadata>c9838a3083d1921067e9f855eeaad3ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Sensor</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae</sys_update_name>
+        <sys_update_version display_value="sys_pd_process_definition_c9838a3083d1921067e9f855eeaad3ae">d0c3c6b083d1921067e9f855eeaad3cb</sys_update_version>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-25 15:09:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

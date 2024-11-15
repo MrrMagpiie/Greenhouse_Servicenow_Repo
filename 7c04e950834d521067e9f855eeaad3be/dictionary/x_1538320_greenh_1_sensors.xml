@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d268619c838d521067e9f855eeaad3e4" label="Sensors" max_length="40" name="x_1538320_greenh_1_sensors" text_index="true" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Location" mandatory="true" max_length="32" name="location" reference="x_1538320_greenh_1_location" type="reference"/>
+        <element label="Type" mandatory="true" max_length="32" name="type" reference="x_1538320_greenh_1_sensors_type" type="reference"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="type"/>
+        </index>
+    </element>
+</database>

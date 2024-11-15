@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">a7d265f01ab912108ba41ec1723f1bd2</macroponent>
+        <name>data_row_3_data</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "{0} out of 5",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    const input = api.data.evam_popular_articles.compositeDataViews;
+    for (var i = 0; i < input.items.length; i++) {
+        var model = input.items[i].propValues;
+        if (model.model.rating != "") {
+            model.detailValueTwo = helpers.translateSync("{0} out of 5", model.model.rating);
+        }
+    }
+    return input;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>isaac.arzu</sys_created_by>
+        <sys_created_on>2024-11-08 15:36:11</sys_created_on>
+        <sys_id>afd265f0e6b91210e94758d6e2058ec5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data_row_3_data</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_client_script_afd265f0e6b91210e94758d6e2058ec5</sys_update_name>
+        <sys_updated_by>isaac.arzu</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:36:11</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_ux_client_script_afd265f0e6b91210e94758d6e2058ec5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Landing Page"&gt;a7d265f01ab912108ba41ec1723f1bd2&lt;/macroponent&gt;&lt;name&gt;data_row_3_data&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ {
+  "code" : null,
+  "message" : "{0} out of 5",
+  "comment" : ""
+} ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    const input = api.data.evam_popular_articles.compositeDataViews;
+    for (var i = 0; i &lt; input.items.length; i++) {
+        var model = input.items[i].propValues;
+        if (model.model.rating != "") {
+            model.detailValueTwo = helpers.translateSync("{0} out of 5", model.model.rating);
+        }
+    }
+    return input;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;isaac.arzu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-08 15:36:11&lt;/sys_created_on&gt;&lt;sys_id&gt;afd265f0e6b91210e94758d6e2058ec5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;data_row_3_data&lt;/sys_name&gt;&lt;sys_package display_value="Greenhouse" source="x_1538320_greenh_1"&gt;7c04e950834d521067e9f855eeaad3be&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Greenhouse"&gt;7c04e950834d521067e9f855eeaad3be&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_afd265f0e6b91210e94758d6e2058ec5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;isaac.arzu&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-08 15:36:11&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>96416551</payload_hash>
+        <record_name>data_row_3_data</record_name>
+        <reverted_from/>
+        <source>b15ba7308330121067e9f855eeaad320</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-20 08:29:35</sys_created_on>
+        <sys_id>24dd707d83f1121067e9f855eeaad3ff</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1920e8d01980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Client Script</type>
+        <update_guid>e0dd707d19f1121042dd4bd58ca90eff</update_guid>
+        <update_guid_history>e0dd707d19f1121042dd4bd58ca90eff:96416551</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>isaac.arzu</sys_created_by>
+        <sys_created_on>2024-11-11 15:28:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>9c5f70eba06349bcba790fad9ac6e0a4</sys_id>
+        <sys_metadata>afd265f0e6b91210e94758d6e2058ec5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data_row_3_data</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_afd265f0e6b91210e94758d6e2058ec5</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_afd265f0e6b91210e94758d6e2058ec5">24dd707d83f1121067e9f855eeaad3ff</sys_update_version>
+        <sys_updated_by>isaac.arzu</sys_updated_by>
+        <sys_updated_on>2024-11-11 15:28:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

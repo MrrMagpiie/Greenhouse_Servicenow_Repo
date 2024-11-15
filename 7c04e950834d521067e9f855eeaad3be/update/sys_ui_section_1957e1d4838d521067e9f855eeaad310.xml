@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1957e1d4838d521067e9f855eeaad310" sys_domain="global" table="x_1538320_greenh_1_sensors_type" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-30 19:52:10</sys_created_on>
+            <sys_id>4e77a118838d521067e9f855eeaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-30 19:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_tank</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-30 19:53:07</sys_created_on>
+            <sys_id>bfa76958838d521067e9f855eeaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-30 19:53:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurementunit</element>
+            <position>3</position>
+            <sys_created_by>zachary.agnew</sys_created_by>
+            <sys_created_on>2024-10-16 14:46:46</sys_created_on>
+            <sys_id>980b72518395121067e9f855eeaad3a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>zachary.agnew</sys_updated_by>
+            <sys_updated_on>2024-10-16 14:46:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurment</element>
+            <position>4</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-10-21 14:52:22</sys_created_on>
+            <sys_id>d73c688b8319121067e9f855eeaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-10-21 14:52:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <position>5</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-10-21 14:53:29</sys_created_on>
+            <sys_id>af7ca0cb8319121067e9f855eeaad3eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-10-21 14:53:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement</element>
+            <position>6</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-10-21 15:09:09</sys_created_on>
+            <sys_id>0d103ccb8359121067e9f855eeaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-10-21 15:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>units</element>
+            <position>7</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-10-21 15:18:15</sys_created_on>
+            <sys_id>1622704b8399121067e9f855eeaad30b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1538320_greenh_1_sensors_type" sys_domain="global" view="Default view">1957e1d4838d521067e9f855eeaad310</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-10-21 15:18:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1538320_greenh_1_sensors_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-30 19:51:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1957e1d4838d521067e9f855eeaad310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1538320_greenh_1_sensors_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+            <sys_update_name>sys_ui_section_1957e1d4838d521067e9f855eeaad310</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-30 19:51:34</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="dfe3d2bcc97952105be58986b29e2cc4" sys_domain="global" table="sys_user" version="3" view="3_custom_portal_settings_x_1538320_greenh_1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-11-08 19:10:34</sys_created_on>
+            <sys_id>57e3d2bc0979521048191312c17fc5c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="93e3d2bc7079521089f3c16b6d1547c5">dfe3d2bcc97952105be58986b29e2cc4</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-11-08 19:10:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-11-08 19:10:34</sys_created_on>
+            <sys_id>1be3d2bc317952107a2ef23bde3913c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="93e3d2bc7079521089f3c16b6d1547c5">dfe3d2bcc97952105be58986b29e2cc4</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-11-08 19:10:34</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-11-08 19:10:34</sys_created_on>
+            <sys_id>1fe3d2bcbf795210724cf571e343a6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="93e3d2bc7079521089f3c16b6d1547c5">dfe3d2bcc97952105be58986b29e2cc4</sys_ui_section>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-11-08 19:10:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-11-08 19:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfe3d2bcc97952105be58986b29e2cc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+            <sys_update_name>sys_ui_section_dfe3d2bcc97952105be58986b29e2cc4</sys_update_name>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-11-08 19:10:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="3_custom_portal_settings_x_1538320_greenh_1" name="3_custom_portal_settings_x_1538320_greenh_1">93e3d2bc7079521089f3c16b6d1547c5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

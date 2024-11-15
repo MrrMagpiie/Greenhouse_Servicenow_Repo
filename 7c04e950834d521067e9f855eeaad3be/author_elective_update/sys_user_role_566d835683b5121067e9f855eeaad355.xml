@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1538320_greenh_1.integration_Homeassistant</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>integration_Homeassistant</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-11-13 15:12:44</sys_created_on>
+        <sys_id>566d835683b5121067e9f855eeaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1538320_greenh_1.integration_Homeassistant</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_user_role_566d835683b5121067e9f855eeaad355</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-11-13 15:12:44</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_user_role_566d835683b5121067e9f855eeaad355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1538320_greenh_1.integration_Homeassistant</name><scoped_admin>false</scoped_admin><suffix>integration_Homeassistant</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-11-13 15:12:44</sys_created_on><sys_id>566d835683b5121067e9f855eeaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1538320_greenh_1.integration_Homeassistant</sys_name><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_user_role_566d835683b5121067e9f855eeaad355</sys_update_name><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-11-13 15:12:44</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>2127871694</payload_hash>
+        <record_name>x_1538320_greenh_1.integration_Homeassistant</record_name>
+        <reverted_from/>
+        <source>bc042d50834d521067e9f855eeaad328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-11-13 15:12:44</sys_created_on>
+        <sys_id>8a7d87d68375121067e9f855eeaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193261585600000001</sys_recorded_at>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-11-13 15:12:44</sys_updated_on>
+        <type>Role</type>
+        <update_guid>8e7d87d634751210299c9b40a9c827a0</update_guid>
+        <update_guid_history>8e7d87d634751210299c9b40a9c827a0:2127871694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1538320_greenh_1.integration_Homeassistant">c720135a83b5121067e9f855eeaad337</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-11-13 15:24:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>18275598d2e24f168e4780a8684f4cc9</sys_id>
+        <sys_metadata>566d835683b5121067e9f855eeaad355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1538320_greenh_1.integration_Homeassistant</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_user_role_566d835683b5121067e9f855eeaad355</sys_update_name>
+        <sys_update_version display_value="sys_user_role_566d835683b5121067e9f855eeaad355">8a7d87d68375121067e9f855eeaad3a1</sys_update_version>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-11-13 15:24:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

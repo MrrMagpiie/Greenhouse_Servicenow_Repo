@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1538320_greenh_1_hardware_readings" version="2" view="workspace-greenhouse-1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_1538320_greenh_1_hardware_readings" element="NULL" name="x_1538320_greenh_1_hardware_readings" parent="NULL" relationship="NULL" sys_domain="global" view="21ed827c68f55210595cda38237ce78b">e2fd02bc83f5521067e9f855eeaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>isaac.arzu</sys_created_by>
+            <sys_created_on>2024-11-08 18:44:27</sys_created_on>
+            <sys_id>e2fd02bc83f5521067e9f855eeaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isaac.arzu</sys_updated_by>
+            <sys_updated_on>2024-11-08 18:44:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_id</element>
+            <list_id display_value="x_1538320_greenh_1_hardware_readings" element="NULL" name="x_1538320_greenh_1_hardware_readings" parent="NULL" relationship="NULL" sys_domain="global" view="21ed827c68f55210595cda38237ce78b">e2fd02bc83f5521067e9f855eeaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>isaac.arzu</sys_created_by>
+            <sys_created_on>2024-11-08 18:44:27</sys_created_on>
+            <sys_id>e6fd02bc83f5521067e9f855eeaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isaac.arzu</sys_updated_by>
+            <sys_updated_on>2024-11-08 18:44:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>value</element>
+            <list_id display_value="x_1538320_greenh_1_hardware_readings" element="NULL" name="x_1538320_greenh_1_hardware_readings" parent="NULL" relationship="NULL" sys_domain="global" view="21ed827c68f55210595cda38237ce78b">e2fd02bc83f5521067e9f855eeaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>isaac.arzu</sys_created_by>
+            <sys_created_on>2024-11-08 18:44:27</sys_created_on>
+            <sys_id>eafd02bc83f5521067e9f855eeaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isaac.arzu</sys_updated_by>
+            <sys_updated_on>2024-11-08 18:44:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_1538320_greenh_1_hardware_readings" element="NULL" name="x_1538320_greenh_1_hardware_readings" parent="NULL" relationship="NULL" sys_domain="global" view="21ed827c68f55210595cda38237ce78b">e2fd02bc83f5521067e9f855eeaad3bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>isaac.arzu</sys_created_by>
+            <sys_created_on>2024-11-08 18:44:27</sys_created_on>
+            <sys_id>eefd02bc83f5521067e9f855eeaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isaac.arzu</sys_updated_by>
+            <sys_updated_on>2024-11-08 18:44:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1538320_greenh_1_hardware_readings</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>isaac.arzu</sys_created_by>
+            <sys_created_on>2024-11-08 18:44:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2fd02bc83f5521067e9f855eeaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1538320_greenh_1_hardware_readings</sys_name>
+            <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+            <sys_update_name>sys_ui_list_x_1538320_greenh_1_hardware_readings_workspace-greenhouse-1</sys_update_name>
+            <sys_updated_by>isaac.arzu</sys_updated_by>
+            <sys_updated_on>2024-11-08 18:44:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Greenhouse 1" name="workspace-greenhouse-1">21ed827c68f55210595cda38237ce78b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

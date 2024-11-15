@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="05b8b5b483dd521067e9f855eeaad324" label="Sensor_Readings" max_length="40" name="x_1538320_greenh_1_sensor_readings" text_index="true" type="collection">
+        <element label="Sensor" max_length="32" name="sensor" reference="x_1538320_greenh_1_sensors" type="reference"/>
+        <element label="Value" max_length="40" name="value" type="float"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sensor"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>Basic Workspace for Greenhouse</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Greenhouse App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:17:29</sys_created_on>
+        <sys_id>3f3182fcb451921004fafd472450a701</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Greenhouse App Config</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_app_config_3f3182fcb451921004fafd472450a701</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:17:29</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_ux_app_config_3f3182fcb451921004fafd472450a701</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>Basic Workspace for Greenhouse</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Greenhouse App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:17:29</sys_created_on><sys_id>3f3182fcb451921004fafd472450a701</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Greenhouse App Config</sys_name><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_ux_app_config_3f3182fcb451921004fafd472450a701</sys_update_name><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:17:29</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>2146874243</payload_hash>
+        <record_name>Greenhouse App Config</record_name>
+        <reverted_from/>
+        <source>b15ba7308330121067e9f855eeaad320</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-20 08:29:35</sys_created_on>
+        <sys_id>08e10e348391921067e9f855eeaad36d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1920e8d01980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>c4e10e34a6919210a2dfa177d941f86d</update_guid>
+        <update_guid_history>c4e10e34a6919210a2dfa177d941f86d:2146874243</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:20:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>7c33d819a1024facbf48ca867c428390</sys_id>
+        <sys_metadata>3f3182fcb451921004fafd472450a701</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Greenhouse App Config</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_3f3182fcb451921004fafd472450a701</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_3f3182fcb451921004fafd472450a701">08e10e348391921067e9f855eeaad36d</sys_update_version>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:20:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="Greenhouse_menu_config">0e4186fc8351921067e9f855eeaad3b2</configuration>
+        <description/>
+        <order>300</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:17:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e4186fc8351921067e9f855eeaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sensors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_list_category_0e4186fc8351921067e9f855eeaad3ff</sys_update_name>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:17:36</sys_updated_on>
+        <title>Sensors</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_ux_list_category_0e4186fc8351921067e9f855eeaad3ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Greenhouse_menu_config">0e4186fc8351921067e9f855eeaad3b2</configuration><description/><order>300</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>taran.curtis</sys_created_by><sys_created_on>2024-10-14 21:17:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e4186fc8351921067e9f855eeaad3ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sensors</sys_name><sys_overrides/><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_ux_list_category_0e4186fc8351921067e9f855eeaad3ff</sys_update_name><sys_updated_by>taran.curtis</sys_updated_by><sys_updated_on>2024-10-14 21:17:36</sys_updated_on><title>Sensors</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>-717291562</payload_hash>
+        <record_name>Sensors</record_name>
+        <reverted_from/>
+        <source>bc042d50834d521067e9f855eeaad328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:17:36</sys_created_on>
+        <sys_id>0241c6fc8351921067e9f855eeaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928ce4c8fa0000001</sys_recorded_at>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:17:36</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>0641c6fc7b519210027b10d739d0f702</update_guid>
+        <update_guid_history>0641c6fc7b519210027b10d739d0f702:-717291562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taran.curtis</sys_created_by>
+        <sys_created_on>2024-10-14 21:20:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>61fc878e4e314885823547e42aad1521</sys_id>
+        <sys_metadata>0e4186fc8351921067e9f855eeaad3ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sensors</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_0e4186fc8351921067e9f855eeaad3ff</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_0e4186fc8351921067e9f855eeaad3ff">0241c6fc8351921067e9f855eeaad303</sys_update_version>
+        <sys_updated_by>taran.curtis</sys_updated_by>
+        <sys_updated_on>2024-10-14 21:20:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

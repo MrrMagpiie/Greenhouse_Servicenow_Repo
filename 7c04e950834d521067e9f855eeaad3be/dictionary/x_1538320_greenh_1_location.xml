@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0dd461d4834d521067e9f855eeaad345" label="Location" max_length="40" name="x_1538320_greenh_1_location" text_index="true" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Greenhouse_Experience</name>
+        <required_roles>x_1538320_greenh_1.admin,x_1538320_greenh_1.user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 20:17:17</sys_created_on>
+        <sys_id>393d25908301921067e9f855eeaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Greenhouse_Experience</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_393d25908301921067e9f855eeaad3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 20:17:17</sys_updated_on>
+        <title>Greenhouse_Experience</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</application>
+        <file_path/>
+        <instance_id>e0737b4d1b054a907d9d2f8dee4bcbd1</instance_id>
+        <instance_name>dev243932</instance_name>
+        <name>sys_sg_applet_launcher_393d25908301921067e9f855eeaad3dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><access_control_type>user_roles</access_control_type><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Greenhouse_Experience</name><required_roles>x_1538320_greenh_1.admin,x_1538320_greenh_1.user</required_roles><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-30 20:17:17</sys_created_on><sys_id>393d25908301921067e9f855eeaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Greenhouse_Experience</sys_name><sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package><sys_policy/><sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope><sys_update_name>sys_sg_applet_launcher_393d25908301921067e9f855eeaad3dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-30 20:17:17</sys_updated_on><title>Greenhouse_Experience</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-365570665</payload_hash>
+        <record_name>Greenhouse_Experience</record_name>
+        <reverted_from/>
+        <source>bc042d50834d521067e9f855eeaad328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 20:17:18</sys_created_on>
+        <sys_id>0e3d25908301921067e9f855eeaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19244948a180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 20:17:18</sys_updated_on>
+        <type>Launcher screen</type>
+        <update_guid>023d259085019210d8b156ef8255a0ed</update_guid>
+        <update_guid_history>023d259085019210d8b156ef8255a0ed:-365570665</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 20:24:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>46a90459289a46c2b962d0edca358784</sys_id>
+        <sys_metadata>393d25908301921067e9f855eeaad3dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Greenhouse_Experience</sys_name>
+        <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">0b81a82e122e47d8aee58c9bd6b9bd10</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_393d25908301921067e9f855eeaad3dd</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_393d25908301921067e9f855eeaad3dd">0e3d25908301921067e9f855eeaad3ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 20:24:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

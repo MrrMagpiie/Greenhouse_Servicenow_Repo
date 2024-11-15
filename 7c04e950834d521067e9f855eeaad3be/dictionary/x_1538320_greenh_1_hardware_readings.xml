@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a06979f883dd521067e9f855eeaad359" label="Hardware_Readings" max_length="40" name="x_1538320_greenh_1_hardware_readings" text_index="true" type="collection">
+        <element default="javascript:current.getTableName();" label="Domain ID" max_length="80" name="sys_class_name" type="domain_id"/>
+        <element label="Hardware" max_length="32" name="hardware" reference="x_1538320_greenh_1_hardware" type="reference"/>
+        <element label="Doc ID" max_length="40" name="state" type="boolean"/>
+        <element label="Value" max_length="40" name="value" type="float"/>
+        <index name="index">
+            <element name="hardware"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

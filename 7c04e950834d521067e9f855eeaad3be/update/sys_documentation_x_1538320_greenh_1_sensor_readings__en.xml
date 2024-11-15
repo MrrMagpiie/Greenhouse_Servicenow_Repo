@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Sensor_Readings" language="en" table="x_1538320_greenh_1_sensor_readings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sensor_Readings</label>
+            <language>en</language>
+            <name>x_1538320_greenh_1_sensor_readings</name>
+            <plural>Sensor_Readings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>taran.curtis</sys_created_by>
+            <sys_created_on>2024-10-14 20:40:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sensor_Readings</sys_name>
+            <sys_package display_value="Greenhouse" source="x_1538320_greenh_1">7c04e950834d521067e9f855eeaad3be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Greenhouse">7c04e950834d521067e9f855eeaad3be</sys_scope>
+            <sys_update_name>sys_documentation_x_1538320_greenh_1_sensor_readings__en</sys_update_name>
+            <sys_updated_by>taran.curtis</sys_updated_by>
+            <sys_updated_on>2024-10-14 20:40:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

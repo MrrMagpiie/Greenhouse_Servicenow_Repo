@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5e3cb93f8321121067e9f855eeaad3d3" label="Integration Readings" max_length="40" name="x_1538320_greenh_1_integration_readings" text_index="true" type="collection">
+        <element label="Sensor" max_length="32" name="sensor" reference="x_1538320_greenh_1_sensors" type="reference"/>
+        <element label="Value" max_length="40" name="value" type="float"/>
+        <index name="index">
+            <element name="sensor"/>
+        </index>
+    </element>
+</database>
